@@ -3,6 +3,7 @@
 ## :video_game: Personal Projects
 - 🚙 [Try Not To Crash!](https://github.com/theantigone/Car-Pygame)
 - 🃏 [Blackjack CLI](https://github.com/theantigone/Blackjack-game)
+- 🎵 [MusiKumiLove](https://github.com/kumilove/musikumilove)
 
 ## 🤖 GenAI for Software Development Projects
 - [N-gram Language Modeling](https://github.com/theantigone/ngram-java-ai)
