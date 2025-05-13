@@ -1,5 +1,8 @@
 # Hi, I'm Quang! :wave:
 
+[![Quang's GitHub stats](https://github-readme-stats.vercel.app/api?username=theantigone&show_icons=true&theme=gotham&border_color=0fffbf&show=prs_merged&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theantigone&layout=compact&theme=gotham&border_color=0fffbf)](https://github.com/anuraghazra/github-readme-stats)
+
 ## :video_game: Personal Projects
 - 🚙 [Try Not To Crash!](https://github.com/theantigone/Car-Pygame)
 - 🃏 [Blackjack CLI](https://github.com/theantigone/Blackjack-game)
