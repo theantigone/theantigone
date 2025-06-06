@@ -12,6 +12,6 @@
 - 👥 [Robert's Rules of Order Online](https://github.com/immacdonald/roberts-rules-online)
 
 ## 🤖 GenAI for Software Development Projects (CSCI 420/520)
-- [N-gram Language Modeling](https://github.com/theantigone/ngram-java-ai)
-- [Fine-Tuning For `if` Statements](https://github.com/theantigone/Fine-Tuning-CodeT5)
-- [Prompt Engineering LLMs](https://github.com/theantigone/Prompt-Engineering-for-In-Context-Learning)
+- :abcd: [N-gram Language Modeling](https://github.com/theantigone/ngram-java-ai)
+- :hammer_and_wrench: [Fine-Tuning For `if` Statements](https://github.com/theantigone/Fine-Tuning-CodeT5)
+- :writing_hand: [Prompt Engineering LLMs](https://github.com/theantigone/Prompt-Engineering-for-In-Context-Learning)
