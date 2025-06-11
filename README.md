@@ -3,6 +3,13 @@
 [![Quang's GitHub stats](https://github-readme-stats.vercel.app/api?username=theantigone&show_icons=true&theme=gotham&border_color=0fffbf&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theantigone&layout=compact&theme=gotham&border_color=0fffbf)](https://github.com/anuraghazra/github-readme-stats)
 
+## :boy: About Me...
+
+- I use [Neovim](https://neovim.io/), btw.
+- I enjoy optimizing my developer workflow!
+- My favorite programming language is [`C`](https://www.c-language.org/) because of its potential to help me understand computer organization
+- My favorite kernel to run on is [Linux](https://www.linux.org/) because of the endless possibilities with the terminal _alone_
+
 ## :video_game: Personal Projects
 - 🔋 [Static Site Generator](https://github.com/theantigone/static-site-generator)
 - 🚙 [Try Not To Crash!](https://github.com/theantigone/Try-Not-To-Crash)
