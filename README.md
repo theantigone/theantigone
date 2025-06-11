@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theantigone&layout=compact&theme=gotham&border_color=0fffbf)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :video_game: Personal Projects
-- 🚙 [Try Not To Crash!](https://github.com/theantigone/Car-Pygame)
+- 🚙 [Try Not To Crash!](https://github.com/theantigone/Try-Not-To-Crash)
 - 🃏 [Blackjack CLI](https://github.com/theantigone/Blackjack-game)
 - 🎵 [MusiKumiLove](https://github.com/kumilove/musikumilove)
 
