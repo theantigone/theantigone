@@ -1,9 +1,9 @@
-# Hi, I'm Quang! :wave:
+# Hi, I'm Quang! 👋
 
 [![Quang's GitHub stats](https://github-readme-stats.vercel.app/api?username=theantigone&show_icons=true&theme=gotham&border_color=0fffbf&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theantigone&layout=compact&theme=gotham&border_color=0fffbf)](https://github.com/anuraghazra/github-readme-stats)
 
-## :boy: About Me...
+## 👨‍🎓 About Me...
 
 - I use [Neovim](https://neovim.io/), btw.
 - I enjoy optimizing my developer workflow!
@@ -20,6 +20,6 @@
 - 👥 [Robert's Rules of Order Online](https://github.com/immacdonald/roberts-rules-online)
 
 ## 🤖 GenAI for Software Development Projects (CSCI 420/520)
-- :abcd: [N-gram Language Modeling](https://github.com/theantigone/ngram-java-ai)
-- :hammer_and_wrench: [Fine-Tuning For `if` Statements](https://github.com/theantigone/Fine-Tuning-CodeT5)
-- :writing_hand: [Prompt Engineering LLMs](https://github.com/theantigone/Prompt-Engineering-for-In-Context-Learning)
+- 🔡 [N-gram Language Modeling](https://github.com/theantigone/ngram-java-ai)
+- 🛠️ [Fine-Tuning For `if` Statements](https://github.com/theantigone/Fine-Tuning-CodeT5)
+- ✍️ [Prompt Engineering LLMs](https://github.com/theantigone/Prompt-Engineering-for-In-Context-Learning)
