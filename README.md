@@ -24,6 +24,9 @@
 - 🛠️ [Fine-Tuning For `if` Statements](https://github.com/theantigone/Fine-Tuning-CodeT5)
 - ✍️ [Prompt Engineering LLMs](https://github.com/theantigone/Prompt-Engineering-for-In-Context-Learning)
 
+## 💻: Software Engineering Projects (CSCI 435)
+- 📱 [Survey Analysis Tool Support](https://github.com/csci-435-fall-2025/cs435-team-6)
+
 ## My [Boot.dev progress](https://www.boot.dev/u/air)
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/1559450e-e677-42f9-84a3-786258846573/thumbnail" >
